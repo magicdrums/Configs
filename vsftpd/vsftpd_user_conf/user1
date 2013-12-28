@@ -1,0 +1,5 @@
+dirlist_enable=YES
+download_enable=YES
+# full path to the directory where 'user1' will have access, change to your needs
+local_root=$FULL_PATH_USER1
+write_enable=YES
