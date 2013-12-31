@@ -9,4 +9,9 @@ VSFTPD: Configuracion para autenticacion por medio de mysql los archivos de conf
 * mysql: Archivos de creacion de usuario, db y tabla para mysql.
 
 SCREEN
+
 * .screenrc: Configuracion personalizada de screen.
+
+DIG
+
+* .digrc: Configuracion para que la salida se limpia.
