@@ -1,0 +1,8 @@
+vbell off 
+vbell_msg "[[ DING! ]]"
+term "xterm-256color"
+shelltitle '% |Shell'
+screen -t Shell 0 
+defscrollback 5000
+caption always "%{= kG}Host: %{Y}%H%? %{c}(%1`)%{= kG} %-=Load: %{Y}%l%{kG}  %{= kG}Date: %{Y}%m/%d/%y%{= kG}  Time: %{Y}%C:%s%a%{= kG}%{W}"
+hardstatus alwayslastline "%Lw %{=kG}"
